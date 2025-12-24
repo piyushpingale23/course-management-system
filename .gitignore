@@ -1,0 +1,8 @@
+cat <<EOF > .gitignore
+.gradle
+build/
+out/
+*.log
+.idea
+.vscode
+EOF
